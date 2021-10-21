@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Honey-Dev
 - 👀 I’m interested in Web Dev  
-- 🌱 I’m currently DSA
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
