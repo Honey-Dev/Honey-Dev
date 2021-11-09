@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Honey-Dev
-- 👀 I’m interested in Web Dev (MERN)
+- 👀 I’m MERN Stack developer
 - 🌱 I’m currently learning DSA
 
 <!---
