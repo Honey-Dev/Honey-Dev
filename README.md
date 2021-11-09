@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Honey-Dev
-- 👀 I’m interested in Web Dev  
+- 👀 I’m interested in Web Dev (MERN)
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Honey-Dev/Honey-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
