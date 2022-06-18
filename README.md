@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Honey-Dev
+- 👋 Hi, I’m @Devanshu
 - 👀 I’m MERN Stack developer
 - 🌱 I’m currently learning DSA
 
